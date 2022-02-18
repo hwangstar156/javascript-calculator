@@ -140,4 +140,4 @@ class Calculator {
 const calculator = new Calculator();
 calculator.init();
 
-console.log('비녀 화이팅');
+console.log('비녀 화이팅 힘내세요');
